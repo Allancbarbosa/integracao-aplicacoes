@@ -438,13 +438,13 @@
   </notepads>
   <connection>
     <name>BASISHOM</name>
-    <server>10.1.200.80</server>
+    <server>10.10.200.70</server>
     <type>AS/400</type>
     <access>Native</access>
-    <database>BASISHOM</database>
-    <port>-1</port>
-    <username>AY52</username>
-    <password>Encrypted 2be98afc86aa7f2e48a358251f0a886f4</password>
+    <database>HOMOLOGACAO</database>
+    <port>30</port>
+    <username>123</username>
+    <password>Encrypted 2be98afc86aa7f2e4cb79ce10bec3fd89</password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
@@ -463,7 +463,7 @@
       </attribute>
       <attribute>
         <code>PORT_NUMBER</code>
-        <attribute>-1</attribute>
+        <attribute>30</attribute>
       </attribute>
       <attribute>
         <code>PRESERVE_RESERVED_WORD_CASE</code>
@@ -489,13 +489,13 @@
   </connection>
   <connection>
     <name>BASISPRD</name>
-    <server>10.1.100.3</server>
+    <server>10.10.100.30</server>
     <type>AS/400</type>
     <access>Native</access>
-    <database>BASISPRD</database>
-    <port>-1</port>
-    <username>AY52</username>
-    <password>Encrypted 2be98afc86aa7f2e4cb339b5e8cc2fe82</password>
+    <database>PRODUCAO</database>
+    <port>10</port>
+    <username>123</username>
+    <password>Encrypted 2be98afc86aa7f2e4cb79ce10bec3fd89</password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
@@ -514,7 +514,7 @@
       </attribute>
       <attribute>
         <code>PORT_NUMBER</code>
-        <attribute>-1</attribute>
+        <attribute>10</attribute>
       </attribute>
       <attribute>
         <code>PRESERVE_RESERVED_WORD_CASE</code>
